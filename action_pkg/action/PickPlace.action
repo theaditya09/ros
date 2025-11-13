@@ -1,0 +1,11 @@
+# Goal
+string object_name
+geometry_msgs/Pose target_pose
+
+---
+# Result
+string result_message
+
+---
+# Feedback
+string current_phase

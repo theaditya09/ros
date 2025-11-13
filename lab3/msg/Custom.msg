@@ -1,0 +1,4 @@
+string drone_id
+float32 battery_level
+bool is_emergency
+geometry_msgs/Point position

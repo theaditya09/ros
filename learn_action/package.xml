@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>learn_action</name>
+  <version>0.0.0</version>
+  <description>The learn_action package</description>
+
+  <maintainer email="adigen@todo.todo">adigen</maintainer>
+  <license>TODO</license>
+
+  <!-- Build system -->
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!-- Core dependencies -->
+  <depend>rospy</depend>
+  <depend>roscpp</depend>   <!-- add this if you will write C++ nodes -->
+  <depend>actionlib</depend>
+  <depend>actionlib_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>actionPkg</depend> <!-- your custom action package -->
+
+  <export>
+  </export>
+</package>
