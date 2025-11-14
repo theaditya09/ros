@@ -1,0 +1,12 @@
+# goal 
+int32 target 
+
+---
+# result 
+string message
+bool success
+
+---
+# feedback 
+int32 current
+
